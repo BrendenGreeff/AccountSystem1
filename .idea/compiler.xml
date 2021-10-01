@@ -20,7 +20,7 @@
       <module name="AccountSystemLogic" options="" />
       <module name="AccountSystemRepository" options="" />
       <module name="AccountSystemTranslator" options="" />
-      <module name="AccountSystemWeb" options="-parameters" />
+      <module name="AccountSystemWeb" options="" />
     </option>
   </component>
 </project>
